@@ -11,11 +11,15 @@
 <body style="background-color: rgb(187, 130, 239);"> 
     
     <div id="container">
-        <center><h2>EMMA <span>&#128151;</span> LOLA</h2></center>        
-        <p ><center><img id="imagen" title="" alt="" src="./img/emma1.JPG" alt="" ></center></p>  
+        <center><h2>EMMA <span>&#128151;</span> LOLA</h2></center>  
+        <center><input type="button" onclick="agregar()" class="btn-neon" value="Agregar"> 
+        <input type="button" onclick="eliminar()" class="btn-neon" value="Eliminar">
+        </center> <center><input type="button" onclick="buscarImagen()" class="btn-neon" value="Buscar Imagen"></center>     
+        <p ><center><img id="imagen" alt="alt" src="./img/emma1.JPG" ></center></p>  
         <center><p></p><span><span id="nombreImagen"></span></span></p></center>        
         <p><center><input type="button" onclick="atrasar()" class="btn-neon" value="Anterior"/>          
-            <input type="button" onclick="avanzar()" class="btn-neon" value="Siguiente"></center></p>   
+            <input type="button" onclick="avanzar()" class="btn-neon" value="Siguiente">
+        </center></p>   
             <center><H4><p id="edad"></p>
                 <p id="año"></p>
                 <p id="estacion"></p>
@@ -27,5 +31,6 @@
 
     <script src="imagenes.js"></script>
     <script src="carrusel.js"></script>
+    <script src="operaciones.js"></script>
 </body>
 </html>

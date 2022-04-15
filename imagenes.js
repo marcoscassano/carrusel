@@ -9,7 +9,7 @@ const imagenes = [
         edad: "6 años",
         año: "2019",
         estacion: "Otoño",
-        title: "Lyon-Francia"
+        lugar: "Lyon-Francia"
         
 
     },
@@ -19,7 +19,7 @@ const imagenes = [
         edad: "6 años",
         año: "2019",
         estacion: "Verano",
-        title: "Lloret de Mar"
+        lugar: "Lloret de Mar"
         
 
     },
@@ -29,7 +29,7 @@ const imagenes = [
         edad: "7 años",
         año: "2020",
         estacion: "Verano",
-        title: "Lloret de Mar"
+        lugar: "Lloret de Mar"
         
     },
     {
@@ -38,7 +38,7 @@ const imagenes = [
         edad: "6 años",
         año: "2019",
         estacion: "Verano",
-        title: "Lloret de Mar"
+        lugar: "Lloret de Mar"
 
     },
     {
@@ -47,7 +47,7 @@ const imagenes = [
         edad: "7 años",
         año: "2020",
         estacion: "Primavera",
-        title: "Lloret de Mar"
+        lugar: "Lloret de Mar"
 
     },
     {
@@ -56,7 +56,7 @@ const imagenes = [
         edad: "6 años y 4 años",
         año: "2019",
         estacion: "Primavera",
-        title: "Lloret de Mar"
+        lugar: "Lloret de Mar"
 
     },
     {
@@ -65,7 +65,7 @@ const imagenes = [
         edad: "6 años y 4 años",
         año: "2019",
         estacion: "Verano",
-        title: "Lloret de Mar"
+        lugar: "Lloret de Mar"
 
     },
     {
@@ -74,7 +74,7 @@ const imagenes = [
         edad: "3 años",
         año: "2018",
         estacion: "Invierno",
-        title: "Tossa de Mar"
+        lugar: "Tossa de Mar"
 
     },
     {
@@ -83,7 +83,7 @@ const imagenes = [
         edad: "4 años",
         año: "2019",
         estacion: "Verano",
-        title: "Lloret de Mar"
+        lugar: "Lloret de Mar"
 
     },
     {
@@ -92,7 +92,7 @@ const imagenes = [
         edad: "4 años",
         año: "2019",
         estacion: "Verano",
-        title: "Lloret de Mar"
+        lugar: "Lloret de Mar"
 
     },
     {
@@ -101,7 +101,7 @@ const imagenes = [
         edad: "4 años",
         año: "2019",
         estacion: "otoño",
-        title: "Lyon-Francia"
+        lugar: "Lyon-Francia"
 
     },{
         imagen: "lola5.JPG",
@@ -109,7 +109,7 @@ const imagenes = [
         edad: "4 años",
         año: "2019",
         estacion: "Verano",
-        title: "Lloret de Mar"
+        lugar: "Lloret de Mar"
 
     }
 ]
